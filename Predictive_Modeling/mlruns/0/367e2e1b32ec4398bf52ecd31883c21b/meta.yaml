@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Machine%20Learning/Predictive_Modeling/mlruns/0/367e2e1b32ec4398bf52ecd31883c21b/artifacts
+end_time: 1737911700872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 367e2e1b32ec4398bf52ecd31883c21b
+run_name: XGBoost_Model
+run_uuid: 367e2e1b32ec4398bf52ecd31883c21b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737911649551
+status: 4
+tags: []
+user_id: abdul
